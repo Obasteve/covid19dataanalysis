@@ -27,9 +27,4 @@ I determine the relationship between the external dataset and the NCDC COVID-19 
 
 More analyses were conducted with by usimg the vulnerability index and the top 10 confirmed cases.
 I determine the effect of the Pandemic on the economy. by compare the Real GDP value Pre-COVID-19 with Real GDP in 2020. Pandas melt was used to generate a new datframe to plot the barplot.
-                             STEP 9
-Using axhline, draw a horizontal line through the graph at the value of Q2 2020.
-Write out your observation
-Note: Do not limit your analysis to the provided TODOs. Perform more analyses e.g
-Check for more external dataset
-Ask more questions & find the right answers by exploring the data
+                            
