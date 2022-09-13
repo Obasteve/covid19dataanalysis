@@ -2,7 +2,7 @@
                               Data Collection
 I  performed a web scrap to obtain data from the NCDC website. I also obtain data from the John Hopkins repository, and imported the provided external data. After which all the obtained data was saved in a dataframe.
                               STEP 2
-After saving the data sets in a dataframe, I use the head() and the infor() method to view the obtained data sets both from the repository and the scrapped data.
+After saving the data sets in a dataframe, I use the head() and the info() method to view the obtained data sets both from the repository and the scrapped data.
                              STEP  3 
          Data Cleaning and Preparation
 I converted the data to the appropriate data type, renaming of column and extraction of daily data for Nigeria from the Global daily Cases, commas were also removed. 
