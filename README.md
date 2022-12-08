@@ -28,5 +28,7 @@ I determine the relationship between the external dataset and the NCDC COVID-19 
 More analyses were conducted with by usimg the vulnerability index and the top 10 confirmed cases.
 I determine the effect of the Pandemic on the economy. by compare the Real GDP value Pre-COVID-19 with Real GDP in 2020. Pandas melt was used to generate a new datframe to plot the barplot. 
 I used axhline to draw a horizontal line through the graph at the value of Q2 2020.
+I also use the Budget data to plot a pie chart showing the percentages of revised and initial budget.
+I also use a groupby method to plot the population by region and vulnerability index by side with the health system. 
 
                             
